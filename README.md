@@ -1,4 +1,4 @@
-# Flutter TFLite Image Classification
+# Flutter TFLite Image Classification APP
 
 This Flutter project demonstrates image classification using a TensorFlow Lite model. The app enables users to pick an image, processes it using a pre-trained TFLite model, and displays the results.
 
@@ -23,5 +23,5 @@ This Flutter project demonstrates image classification using a TensorFlow Lite m
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/MUmairIQBAL/Flutter-TFLite-Image-Classification-App.git
    cd flutter-tflite-image-classification
