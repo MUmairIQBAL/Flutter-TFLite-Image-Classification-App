@@ -1,0 +1,2 @@
+0 key
+1 cane_stick
